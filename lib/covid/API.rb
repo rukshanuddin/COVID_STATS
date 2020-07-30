@@ -13,7 +13,7 @@ class API
     end
 
     def news
-
+    end
     def hash
         JSON.parse(@info)
     end
